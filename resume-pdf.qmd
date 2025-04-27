@@ -1,0 +1,53 @@
+---
+title: ""
+format:
+  pdf:
+    include-in-header:
+      text: |
+        \usepackage{sectsty}
+        \sectionfont{\centering}
+        \usepackage{titlesec}
+        \titleformat{\section}{\normalfont\Large\bfseries\centering}{\thesection}{1em}{}
+---
+
+\begin{center}
+\huge Nagarjun Guthi Babu
+\end{center}
+\begin{center}
+\href{mailto:nagarjunguthibabu@gmail.com}{nagarjunguthibabu@gmail.com} +46-0721777829 \\
+\href{http://linkedin.com/in/nagarjungb}{Linkedin} Gothenburg, Sweden
+\end{center}
+
+### Skills
+
+-   **Programming**: R, shell scripting, DAX.
+-   **Data Visualization**: Power BI, Tableau, Qlik Sense, Google Data Studio, Excel, Ggplot.
+-   **Analytics Tools**: SQL, DBT, Airflow, Google Analytics, Big Query, Google Tag Manager, Adobe Analytics, Adobe Launch, DTM, Decibel, Medallia, Amplitude.
+-   **Techniques**: Statistical Analysis, Predictive Modelling, Data visualization, A/B testing.
+
+### Experience (9.5 years)
+
+**Senior Data Analyst, Volvo Cars** \hfill Jan 2022 – Current / Gothenburg, Sweden\
+- Analyzed user behaviour and collaborated with product managers, UX designers, and developers to develop and test new hypotheses\
+- Streamlined the .COM user journey, leading to a 40% increase in lead submissions. This was achieved by identifying and addressing key pain points, simplifying the user interface, and reducing the steps in the funnel\
+- Conceptualized and launched a “configured cars” feature, which resulted in a 35 percentage point increase in CTR. This innovative feature improved user engagement by offering personalized vehicle configurations\
+- Executed numerous A/B tests to enhance click-through rates (CTR), conversion rates, and customer satisfaction scores\
+- Created comprehensive dashboards in Google Data Studio and Power BI to monitor and analyze product performance\
+
+**Senior Data Analyst, Philips** \hfill Oct 2017 – Jan 2022 / Bangalore, India\
+- Monitor KPIs and deliver weekly/monthly reports. Work on deep-dives pro-actively by observing trend\
+- Gather requirements from business and work with developers to implement right tagging strategy and define measurement plans\
+- Communicate and distill model results, data-driven insights, and key metrics to non-technical business partners\
+- Create custom data visualizations, automated reports, and data processing jobs resulting in a more efficient system to monitor app user behavior\
+- Conducted workshops on Adobe analytics to internal teams as well as business teams to ensure accuracy in data interpretation\
+- Built a churn prediction model (decision tree) to determine the key drivers of churn for sleep head-band users. Reduced churn rate by 9% by prioritizing on connection flow\
+
+**Senior Web Analyst, Iquanti** \hfill Nov 2015 – Oct 2017 / Bangalore, India\
+- Worked on projects from Insurance, Content and E-commerce websites, provided solutions and recommendations for their digital marketing strategy\
+- Created aesthetic custom dashboards on Tableau, MS Excel, Domo to provide an objective view of key metrics\
+- Conducted workshops on Adobe Analytics for new employees and helped them get to speed on the intricacies of the tool\
+- Automated dashboards using Rgoogleanalytics package and saved 4 hours a month\
+
+### Education
+
+-   **B.E.**, Mechanical Engineering, St. Peter’s College of Engineering, Chennai, India 2015
